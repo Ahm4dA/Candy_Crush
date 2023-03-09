@@ -1,0 +1,17 @@
+void orange_candy(int x, int y, int size);
+void blue_candy(int x, int y, int size);
+void green_candy(int x, int y, int size);
+void yellow_candy(int x, int y, int size);
+void red_candy(int x, int y, int size);
+void orange_candy_stripped(int x, int y, int size);
+void blue_candy_stripped(int x, int y, int size);
+void green_candy_stripped(int x, int y, int size);
+void yellow_candy_stripped(int x, int y, int size);
+void red_candy_stripped(int x, int y, int size);
+void orange_candy_wrapped(int x, int y, int size);
+void blue_candy_wrapped(int x, int y, int size);
+void green_candy_wrapped(int x, int y, int size);
+void yellow_candy_wrapped(int x, int y, int size);
+void red_candy_wrapped(int x, int y, int size);
+void cookie(int x, int y, int size);
+void checkcandy(int num, int x, int y, int size);

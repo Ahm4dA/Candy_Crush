@@ -1,0 +1,34 @@
+Simple Candies
+
+1 Red Color simple
+2 Yellow Color simple
+3 Green Color simple
+4 Blue Color simple
+5 Orange Color simple
+
+Vertical Striped Candies
+
+11 Red Color Striped
+12 Yellow Color Striped
+13 Green Color Striped
+14 Blue Color Striped
+15 Orange Color Striped
+
+Horizontal Striped Candies
+
+21 Red Color Striped
+22 Yellow Color Striped
+23 Green Color Striped
+24 Blue Color Striped
+25 Orange Color Striped
+
+
+Warapped Candies
+
+31 Red Color Warapped
+32 Yellow Color Warapped
+33 Green Color Warapped
+34 Blue Color Warapped
+35 Orange Color Warapped
+
+40 Cookie
